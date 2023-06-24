@@ -1,0 +1,6 @@
+langchain==0.0.194
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+sentence-transformers==2.2.2
+pinecone-client[grpc]
