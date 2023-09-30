@@ -2,6 +2,5 @@ services:
   faq-slack-bot:
     build:
       context: .
-      target: build-image
     env_file:
       - .env

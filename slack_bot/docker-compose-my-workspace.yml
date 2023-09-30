@@ -1,0 +1,6 @@
+services:
+  faq-slack-bot:
+    build:
+      context: .
+    env_file:
+      - ../.env
