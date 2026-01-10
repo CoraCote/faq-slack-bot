@@ -200,7 +200,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -252,3 +251,5 @@ wandb/
 /ingest/ml/build_docker_image.md
 
 *.ipynb
+config.bat
+node_modules
